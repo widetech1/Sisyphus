@@ -1,6 +1,7 @@
 # Sisyphus
 
 Albert Camus (1913-1960)
+
 The Myth of Sisyphus (pp. 3-123) (1940)
 
 "All great deeds and all great thoughts have a ridiculous beginning" (p. 12)
