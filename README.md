@@ -4,10 +4,11 @@ Albert Camus (1913-1960)
 
 The Myth of Sisyphus (pp. 3-123) (1940)
 
+
 "All great deeds and all great thoughts have a ridiculous beginning" (p. 12)
 
 
-**Philosophical Suicide and The Absurd**
+## Philosophical Suicide and The Absurd 
 
 Probably the central question in Camus's The Myth of Sisyphus is this: Is it possible to fathom life's fundamental absurdity and futility, and still want to go on living?
 Consequently, the question of **suicide** is, for Camus, *the* primary philosophical question.
@@ -29,7 +30,7 @@ more central place for the experiences of mystery and awe.
 So, for Camus, life is basically asking us to acknowledge and even celebrate life's fundamental absurdity. Sure, we don't know where we came from, or where we're going, or even if there's any definitive point to any of it. And at the same time, we yearn for definite, concrete answers to these sorts of basic life-questions. But isn't that absurd state of unknowing really nothing more than the condition of radical freedom? In other words, we're free precisely as a function of the absence of any concrete answers to life's riddle; we're free to invent, to create our own, unique responses to life (rather than merely toeing the line of some a priori "answer"). And at the same time, finding ourselves liberated within the trackless expanse of life offers us a chance to create a life with zest, with ardor, with a newfound exuberance and sense of celebration.
 
 
-**Repetition and Futility**
+## Repetition and Futility
 
 Perhaps a more troubling dimension of the absurd has to do with life's repetitive and futile character. Here Camus compares the reality of much of our lives with the classical myth of **Sisyphus** (who was condemned by the Gods to an infinite "life" of futile labor - an endless cycle of pushing a large boulder up a mountain, only to see it roll back down). Camus calls Sisyphus, "**the proletarian of the gods**" (p. 121) precisely because our own lives match his situation so often. For instance, have you noticed that reading this essay (the thing you're doing right now) is a lot like reading any other reading for any other class? Okay, the content is a little different, but the overarching reality is... it's just another reading (like the thousands of others you've probably done by this point in your life) for just another class (like the hundreds you've probably taken). In other words, at some level practically everything you do as a student is a repetition of other things you've known. Of course, at some point in the not too distant future, you'll probably make a transition to the work-world, which will be somewhat different. But then, probably the main thing that will happen there is... adapting yourself to a new set of repetitions-just like you did when you started school, and then did again when you moved to junior high school, and then did again when you went to high school, and then did again when you went to college... you get the picture. The point here is that like Sisyphus, our own lives involve lots of intense labor with a mostly repetitive quality to it.
 
@@ -40,26 +41,26 @@ However, the more troubling similarity to Sisyphus probably lies in the prospect
 However, what really makes our existential situation absurd is not merely that we live lives filled with lots of futile labor with no guarantee that it adds up to anything. After all, the same situation hold true for the entire animal kingdom, which is practically defined by the endless circularity of birth/daily-survival/reproduction/death. In contrast, what makes human existence particularly absurd is that we're **conscious** of it (or at least that we can be). That's where the absurdity of our existence, like Sisyphus's punishment, truly takes on the character of a kind of condemnation. 
 
 
-**Hopelessness and meaninglessness** 
+## Hopelessness and meaninglessness
 
 As an immortal being, Sisyphus, was of course condemned to a completely hopeless situation. However, for Camus, our mortal lives are in reality every bit as **hopeless and meaningless** - mostly because the universe doesn't particularly offer us hope or meaning. We've already seen that for Camus, believing in the significance of our lives & accomplishments is mostly a way of evading the unpleasant realization that life offers no concrete affirmation of our significance whatsoever. Similarly, life itself offers us no reason to center our lives around hope or meaning, especially since life dashes our hopes and sense of purpose about as often as it affirms them. In other words, like significance, hope and meaning are mostly ways of placing emphasis on possibilities that life itself may or may not affirm; the deeper reality is that life is not particularly tied to human hopes and human meaning any more than it's tied to human accomplishments. Life is indifferent to our hopes and meanings. Consequently, Camus sees hope and meaning as human fabrications, as a kind of disease, as distractions, and as a source of disengagement from the reality of the moment -- in short, as forms of philosophical suicide. And because human meaning, and the sense of the quality of life that goes with it, are essentially artifices, Camus makes the further shocking claim that the thing that really matters about life is simply its quantity -- how much of it one gets -- rather than its quality: "...what counts is not the best living but the most living" (p. 61).
 
 
-**Existential defiance**
+## Existential defiance
 
 However, for Camus it remains an open question whether one can live with a full cognizance of life's absurdity, repetitive futility and hopelessness -- or whether one must ultimately resort to suicide of one sort or another. In The Myth of Sisyphus, Camus outlines two possible (and related) responses to our absurd predicament. One of these responses has to do with "scorn" (pp. 120, 121) a form of existential defiance (like "spite" Dostoyevsky's Notes From the Underground). In response to his fate, Sisyphus feels scom for the gods who would condemn him to such an absurdly futile situation (in effect condemning the gods who condemned him). As Camus puts it, "There is no fate that cannot be overcome by scom" (p. 121).
 
 In fact, this kind of defiance is integral to the absurd as such. That's why Camus describes the absurd as an "opposition, laceration and divorce" (p. 35). As he puts it, "The absurd has meaning only is so far as it is not agreed to" (p. 31). In other words, any attempt to "accept" the absurd distorts its essential character, and puts one on the road to philosophical suicide. This sets up a kind of paradox. On one hand, the "lucidity" that Camus recommends demands a full recognition of the absurd, but it also demands a defiant non-acceptance of it. This element of defiance or "revolt" is also what prevents literal suicide from being a viable response to the absurd. As Camus puts it, "Consciousness (of the absurd) and revolt, these rejections are the contrary of renunciation... It is essential to die unreconciled and not of one's own free will... The absurd man can only drain everything to the bitter end, and deplete himself" (p. 55).****
 
 
-**"One Must Imagine Sisyphus Happy."**
+## "One Must Imagine Sisyphus Happy."
 
 Camus's second, and related response has to do with using one's cognizance of the absurd as an occasion to embrace life even more fully (shades of Nietzsche's Eternal Recurrence). This of course sets up a further dimension of paradox: How can we embrace something and at the same time entertain a defiant non-acceptance of it? For Camus, however, that is exactly life's essential, paradoxical challenge. How can we embrace an existence that fails to provide what we yearn for -- a concrete sense of human significance, hope and meaning?
 
 Sisyphus also responds to his condemnation by actually embracing his task, despite being fully conscious of its repetition and its ultimate futility. Camus writes, "Each atom of that stone, each mineral flake of the night-filled mountain, in itself forms a world. The struggle toward the heights is enough to fill a man's heart" (p. 123). By embracing and owning his task, and by allowing each element of his situation to become filled with a kind of enchantment, Sisyphus negates the character of his condemnation, and actually becomes pleased with his fate. In a sense, embracing his fate is Sisyphus's ultimate act of defiance, since doing so negates the character of his condemnation (for instance, think of Timothy Leary's response to his solitary confinement in prison: A wonderful time to slow-down and meditate, without all of the dizzying distractions of celebrity and modem life). So, Camus's response to the "condemnation" of life's repetitiveness and futility is on one hand to remain lucidly and defiantly conscious of it, and on the other to become enchanted with it nonetheless, and ultimately happy with one's part in it.
 
 
-**Relevance to Our Own Lives**
+## Relevance to Our Own Lives
 
 It seems to me that a lot of Camus's analysis gains purchase in our own lives when we reflect on the significant we typically attach to busyness and productivity. This seems especially true in academe, where a busy, productive scholar (or student) is, almost ipso facto, a good scholar (or student). But from that wide, overarching, Camusian perspective, what we call our busyness and productivity is mostly just a matter of repetition. Even what seem to be "discoveries" are, in the final analysis, merely repetitions of the timeworn game of trying to discover new things - in other words, mostly just repetitions of the dynamics that have been repeating themselves throughout history. Sure, the content of the discovery may seem to be novel and even Earth- shattering, but the overarching reality is... that it's just another Earth-shattering discovery, like so many others that have preceded it, and like the countless others that will continue on indefinitely into the future.
 
